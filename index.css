@@ -1,0 +1,9 @@
+.img-cover{
+    width: 150px;
+  height: 150px;
+}
+
+#imgdetails{
+    display: flex;
+    justify-content: center;
+}
